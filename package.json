@@ -39,5 +39,8 @@
   },
   "engines": {
     "node": "^12"
+  },
+  "devDependencies": {
+    "webpack": "^4.43.0"
   }
 }
